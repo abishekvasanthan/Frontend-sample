@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@1,700&display=swap');
+body{
+    font-family: 'Cabin', sans-serif;
+}
+.container{
+    margin-top:10%;
+}
+
+.container p{
+    width: 100%;
+}
+
+.video-card1{
+    width:100%;
+    align-items:center;
+    border-radius:10px;
+    background-color:black;
+    box-shadow:0 0 10px 5px rgba(226, 46, 15, 0.966);
+}
+
+.video-card1 .card-body img{
+    margin:auto auto;
+}
+
+.row1{
+    margin-top:10%;
+}
+
+.video-card1 img{
+    width:100%;
+    height:100%;
+}
+
+.title1{
+    font-size: 15px ;
+}
+
+.i{
+    width:100%;
+    height:105px;
+}
+
+.card-body h5{
+    border-right: 10px;
+}
+
+.card-body{
+    border-top-right-radius:30px ;
+    border-bottom-right-radius:30px;
+}
+
+.pg2img{
+    margin-left:50px;
+}
+
+.change{
+    color:rgb(17, 70, 243);
+}
+
+.img3{
+    height:70px;
+    width:70px;
+    margin-left:47.5px;
+}
+
+.button{
+    colour:red;
+}
+
+.abc{
+    margin-left:65px;
+    margin-top:40px;
+}
+
+.middle{
+    text-align: center;
+    margin-top:50px;
+}
+
+.shift{
+    text-align: 100px;
+}
+
+.img4{
+    height:70px;
+    width:70px;
+}
